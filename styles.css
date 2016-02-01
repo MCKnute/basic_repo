@@ -1,0 +1,9 @@
+body {
+	font-family: Verdana, Arial, sans-serif;
+	text-align: center;
+}
+h1, p {
+	width: 50%;
+	margin: 0 auto;
+	padding: 20px 0;
+}
